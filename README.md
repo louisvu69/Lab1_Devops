@@ -15,6 +15,11 @@
 - Compress, extracts files using "**zip**":
   ![image](https://github.com/user-attachments/assets/19b184ec-83c2-4037-8c2f-291dd4e7b387)
 
+- Edit files using "**nano**":
+  ![image](https://github.com/user-attachments/assets/fc977951-113d-45c1-8075-33f5e61697d1)
+
+- Transfer files using "**WinSCP**":
+  
   
 
 
